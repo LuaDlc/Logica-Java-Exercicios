@@ -1,7 +1,9 @@
 package exercises.logica.java;
 
 import java.util.Scanner;
-
+/*
+Make an algorthm that tajes two numbers and receives the result of their sum
+ */
 public class Exercise01 {
     public static void main(String[] args) {
         int num1= 0;
